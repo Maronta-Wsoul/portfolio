@@ -126,7 +126,7 @@ main {
 
 #eyecatch{
   height: 731px;
-  background: url(img/island.jpg) no-repeat;
+  background: url(island.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   display: flex;
@@ -146,7 +146,7 @@ main {
 /*------------------------*/
 
 #second {
-  background: url(img/bamboo.jpg) no-repeat;
+  background: url(bamboo.jpg) no-repeat;
   background-size: cover;
   height: 700px;
 }
@@ -159,7 +159,7 @@ main {
 /* skills */
 
 #third {
-  background: url(img/washitu.jpg) no-repeat;
+  background: url(washitu.jpg) no-repeat;
   background-size: cover;
   height: 700px;
 }
